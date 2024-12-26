@@ -1,9 +1,7 @@
 #include <fstream>
 #include <iostream>
 #include <algorithm>
-#include <filesystem>
 #include <vector>
-#include <array>
 #include <sstream>
 
 bool isLevelValid(std::string level);
